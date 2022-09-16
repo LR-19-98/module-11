@@ -1,0 +1,10 @@
+{
+  "sampleData": {
+    "f9782e6e-79af-4f5e-9098-e0e5fa17835b": {
+      "payload": "sample_data/json.json"
+    },
+    "eeb12f0b-e70c-4a23-82cc-51ba10a6d7f2": {
+      "payload": "sample_data/listallflightsresponse.xml"
+    }
+  }
+}
